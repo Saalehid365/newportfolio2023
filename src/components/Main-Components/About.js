@@ -15,15 +15,18 @@ export default function About() {
               <i className="lar la-user"></i> About
             </h4>
             <h1 className="scroll-animation" data-aos="fade-up">
-              Every great develop begin with
+              Every great development begins with
               <br />
               an even <span>better story</span>
             </h1>
           </div>
           <p className="scroll-animation" data-aos="fade-up">
-            Since beginning my journey 2 years ago, I've done work for family,
-            friends and buisness, I'm quiet confident, naturally curious, and
-            perpetually working on improving my developing skills
+            Since beginning my journey 2 years ago, I have become really
+            pasionate about development. I enjoy reading, problem solving,
+            spending time with my family and teaching them what i have learnt.
+            I've done work for family, friends and buisness, I'm quiet
+            confident, naturally curious, and perpetually working on improving
+            my developing skills
           </p>
         </div>
       </div>

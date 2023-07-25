@@ -9,7 +9,7 @@ export default function Lsb() {
       <img className="me" src="./assets/images/me.jpg" alt="Me" />
       <h2 className="email">anelson2711@gmail.com</h2>
       <h2 className="address">Birmingham, UK</h2>
-      <p className="copyright">&copy; 2022 Drake. All Rights Reserved</p>
+
       <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
         <li>
           <a href="https://twitter.com/idevelop365">
