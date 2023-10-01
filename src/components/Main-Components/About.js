@@ -24,7 +24,7 @@ export default function About() {
             Since beginning my journey 2 years ago, I have become really
             pasionate about development. I enjoy reading, problem solving,
             spending time with my family and teaching them what i have learnt.
-            I've done work for family, friends and buisness, I'm quiet
+            I've done work for family, friends and buisness's, I'm quiet
             confident, naturally curious, and perpetually working on improving
             my developing skills
           </p>

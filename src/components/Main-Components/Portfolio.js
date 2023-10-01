@@ -35,22 +35,19 @@ export default function Portfolio() {
             <div className="col-md-12 scroll-animation" data-aos="fade-up">
               <div className="portfolio-item portfolio-full">
                 <div className="portfolio-item-inner">
-                  <a
-                    href="../assets/images/portfolio1.jpg"
-                    data-lightbox="example-1"
-                  >
+                  <a href="../assets/images/naqi.png" data-lightbox="example-1">
                     <img src="../assets/images/naqi.png" alt="Portfolio" />
                   </a>
 
                   <ul className="portfolio-categories">
                     <li>
-                      <a href="https://www.figma.com">React</a>
+                      <a href="/">React</a>
                     </li>
                     <li>
-                      <a href="https://www.Framer.com">Stripe</a>
+                      <a href="/">Stripe</a>
                     </li>
                     <li>
-                      <a href="https://www.wordpress.com">Firebase</a>
+                      <a href="/">Firebase</a>
                     </li>
                   </ul>
                 </div>
@@ -66,7 +63,7 @@ export default function Portfolio() {
               <div className="portfolio-item portfolio-half">
                 <div className="portfolio-item-inner">
                   <a
-                    href="../assets/images/portfolio2.jpg"
+                    href="../assets/images/khanooz.png"
                     data-lightbox="example-1"
                   >
                     <img src="../assets/images/khanooz.png" alt="Portfolio" />
@@ -76,17 +73,15 @@ export default function Portfolio() {
 
                   <ul className="portfolio-categories">
                     <li>
-                      <a href="https://www.wordpress.com">React</a>
+                      <a href="/">React</a>
                     </li>
                     <li>
-                      <a href="https://www.larevel.com">Stripe</a>
+                      <a href="/">Stripe</a>
                     </li>
                   </ul>
                 </div>
                 <h2>
-                  <a href="https://www.moonex.com">
-                    Al-khanooz - Ecommerce website
-                  </a>
+                  <a href="/">Al-khanooz - Ecommerce website</a>
                 </h2>
               </div>
             </div>
@@ -95,7 +90,7 @@ export default function Portfolio() {
               <div className="portfolio-item portfolio-half">
                 <div className="portfolio-item-inner">
                   <a
-                    href="../assets/images/portfolio3.jpg"
+                    href="../assets/images/kingdom.png"
                     data-lightbox="example-1"
                   >
                     <img src="../assets/images/kingdom.png" alt="Portfolio" />
@@ -103,10 +98,10 @@ export default function Portfolio() {
 
                   <ul className="portfolio-categories">
                     <li>
-                      <a href="https://www.figma.com">React</a>
+                      <a href="/">React</a>
                     </li>
                     <li>
-                      <a href="https://www.webflow.com">Firebase</a>
+                      <a href="/">Firebase</a>
                     </li>
                   </ul>
                 </div>
@@ -122,7 +117,7 @@ export default function Portfolio() {
               <div className="portfolio-item portfolio-half">
                 <div className="portfolio-item-inner">
                   <a
-                    href="../assets/images/portfolio4.jpg"
+                    href="../assets/images/masjid.png"
                     data-lightbox="example-1"
                   >
                     <img src="../assets/images/masjid.png" alt="portfolio" />
@@ -130,15 +125,15 @@ export default function Portfolio() {
 
                   <ul className="portfolio-categories">
                     <li>
-                      <a href="https://www.figma.com">React</a>
+                      <a href="/">React</a>
                     </li>
                     <li>
-                      <a href="https://www.reactjs.com">Firebase</a>
+                      <a href="/">Firebase</a>
                     </li>
                   </ul>
                 </div>
                 <h2>
-                  <a href="https://www.hinterland.com">
+                  <a href="https://www.almusa3ada.com" target="blank">
                     Masjid Al-musa3ada - Fund raising website
                   </a>
                 </h2>
