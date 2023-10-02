@@ -67,11 +67,7 @@ export default function Portfolio() {
                   </ul>
                 </div>
                 <h2>
-                  <a
-                    href="https://papaya-madeleine-982262.netlify.app/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
+                  <a href="https://papaya-madeleine-982262.netlify.app/">
                     Honestly Healthy - Ecommerce website
                   </a>
                 </h2>

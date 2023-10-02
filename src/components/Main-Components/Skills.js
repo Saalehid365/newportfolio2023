@@ -24,7 +24,7 @@ export default function Skills() {
               <div className="skill">
                 <div className="skill-inner">
                   <img
-                    src="https://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png"
+                    src="https://www.svgrepo.com/show/452228/html-5.svg"
                     alt="HTML"
                     width="60"
                   />
