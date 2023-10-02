@@ -3,6 +3,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Lightbox from "lightbox2";
 import "lightbox2/dist/css/lightbox.min.css";
+import honest from "./honest.png";
 // import 'lightbox2/dist/js/lightbox.js';
 
 export default function Portfolio() {
@@ -36,7 +37,7 @@ export default function Portfolio() {
               <div className="portfolio-item portfolio-full">
                 <div className="portfolio-item-inner">
                   <a href="../assets/images/naqi.png" data-lightbox="example-1">
-                    <img src="../assets/images/naqi.png" alt="Portfolio" />
+                    <img src={honest} alt="Portfolio" />
                   </a>
 
                   <ul className="portfolio-categories">
@@ -49,11 +50,29 @@ export default function Portfolio() {
                     <li>
                       <a href="/">Firebase</a>
                     </li>
+                    <li>
+                      <a href="https://github.com/Saalehid365/naqinaturals">
+                        Source Code
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://papaya-madeleine-982262.netlify.app/"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Website
+                      </a>
+                    </li>
                   </ul>
                 </div>
                 <h2>
-                  <a href="https://www.Bureau - Architecture Studio Website.com">
-                    Natural and Naqi - Ecommerce website
+                  <a
+                    href="https://papaya-madeleine-982262.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Honestly Healthy - Ecommerce website
                   </a>
                 </h2>
               </div>
@@ -129,6 +148,24 @@ export default function Portfolio() {
                     </li>
                     <li>
                       <a href="/">Firebase</a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://github.com/Saalehid365/-MasjidBirrAlWalidayn"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Sorce code
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.almusa3ada.com"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Website
+                      </a>
                     </li>
                   </ul>
                 </div>
